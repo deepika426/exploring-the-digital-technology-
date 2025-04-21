@@ -12,7 +12,7 @@ Next, we had a guest lecture about "artificial neural networks (ANN) ", what the
 We explore the new website called "playground.tensorflow.org", which is helpful to understand how the hidden layers and the number of neurons in the hidden layer affect the output. There are many applications of ANN in technology, like we use this in ChatGPT, open AI sources, facial recognition, robotics, and automation.
 There are 3 steps in ANN: forward propagation, Loss, and backward propagation. 
 We use ANNs for complex and non-linear relations and great pattern recognition, and as the base for deep learning. 
-Last two to three weeks, we have been working on our group project by selecting a topic that interests us more, so our group chose a topic on Airline reservation: how do flights get booked?  
-As a group, we have three members, so we divide the topic into three subtopics such as  1) History and structure of airlines, 2) Overbooking and passenger bumping, 3) Dynamic pricing and fare algorithm 
+For the last two to three weeks, we have been working on our group project by selecting a topic that interests us more. Our group chose Airline reservation: How do flights get booked?  
+As a group, we have three members, so we divide the topic into three subtopics:  1) History and structure of airlines, 2) Overbooking and passenger bumping, and 3) Dynamic pricing and fare algorithm. 
 We three are exploring all the topics, but we thought we could take one and give more focus to it, so  I chose overbooking and passenger bumping.
 
