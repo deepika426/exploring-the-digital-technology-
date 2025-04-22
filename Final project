@@ -1,7 +1,23 @@
 As a part of this course we are suppose to do a small project in a group to explore more about technology and try to understand the concepts better which are thought in class by using the applications in our laptops. 
-So as a group of three members : Me , sourav and sandeep deciced our topic as " Airlines reservation systems: How do flights get booked? "
-In that topic we divide it into 3 subtopics as 1) History and structure of airlines , 2) Overbooking and passenger bumping and 3) dynamic pricing and fare algotithm 
+So as a group of three members: Me, Sourav and Sandeep deciced our topic as " Airlines reservation systems: How do flights get booked? "
+In that topic, we divide it into 3 subtopics as 1) History and structure of airlines, 2) Overbooking and passenger bumping, and 3) dynamic pricing and fare algorithm 
 I am mainly focusing on Overbooing and passenger bumping . The airlines do overbooikg to avoid flying empty seats and it's been a practice from decades. 
 Airlines has many reasons to o overbooing that are passengers may cancel their tickets or last minute changes in travel plan these avoid the empty seats in flights. 
-If there is no empty seat the airlines also get the maximimum revenue per flight and By reducing the number of empty seats in flight leads to lower the price for other passengers
-If overbooking happens and all the people are present in flight in that situation they are two cases they will ask the passengers to voluntarily leave the flight 
+If there is no empty seat, the airlines also get the maximum revenue per flight, and reducing the number of empty seats in a flight leads to a lower price for other passengers
+Flights are expensive to operate, and every empty seat is a hard hit on the bottom line of the revenue. 
+Overbooking happens and all the people are present on the flight in that situation. There are two cases: Voluntary bumping and involuntary bumping 
+Voluntary bumping: They suggest that travelers give up their seats in exchange for negotiated compensation for their inconvenience. 
+The compensation includes: vouchers for flights like meals, transportation, hotel stays, etc.. and cash refunds and future travel upgrades. 
+Involuntary bumping: If passengers don't agree to give up seats, then they select who will not be boarding by using some criteria. 
+The criteria are: The lowest fare tickets are at the biggest risk of being bumped. The latest check-ins are often first to be denied boarding and the heighest tiers are rarely being bumped. 
+If you are travelling alone, then there is a greater chance of getting bumped. 
+Overbooking is effective in terms of revenue. Let us discuss how it is 
+For example, let us consider a flight that has a 160-passenger capacity, which may generate $30,000 in ticket sales. If 10% of  those passengers cancel right before takeoff, then that airline would lose $3,000 per flight.
+However, by overbooking by 10%, the airline compensates for those potential no-shows and can fill all the seats, recapturing that $3,000.
+It is only about one flight, but daily thousands of flights will travel around the world, and airlines can increase revenue by tens of millions pf dollars. 
+So, overbooking strikes a balance between profitability and customer satisfaction. As the percentage of involuntary bumping is less. 
+
+
+
+
+
